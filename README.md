@@ -4,7 +4,7 @@ I'm Kento Doi, a PhD student at the University of Tokyo, RA at AIST. I'm interes
 
 - 👁‍🗨 I'm currently working on change detection/captioning projects
 - 🥺 Python / git / Vim / LaTex / Markdown
-- ⌨️ I'm enjoying [AtCoder]([https://atcoder.jp/users/doiken](https://atcoder.jp/users/doiken))
+- ⌨️ I'm enjoying [AtCoder](https://atcoder.jp/users/doiken](https://atcoder.jp/users/doiken)
 - 🤸‍♂️ I was a gymnast when I was an undergraduate
 - 📕💿 I like Japanese manga and HIP HOP music
 
