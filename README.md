@@ -16,7 +16,7 @@ Conference Papers
 
 Journal Papers
 
-- Kento Doi et al. xxxx [under review]
+- **Kento Doi**, Ryuhei Hamaguchi, Yusuke Iwasawa, Masaki Onishi, Yutaka Matsuo, and Ken Sakurada, "Detecting Object-Level Scene Changes with Viewpoint Difference using Graph Matching", Remote Sensing, 2022. [ACCEPTED]
 - Zhaoxiang Zhang, **Kento Doi**, Akira Iwasaki, and Guodong Xu, "Unsupervised Domain Adaptation of High-Resolution Aerial Images via Correlation Alignment and Self Training",  IEEE Geoscience and Remote Sensing Letters, Apr. 2020.
 - Shota Iino, Riho Ito, **Kento Doi**, Tomoyuki Imaizumi, and Syuhei Hikosaka, "CNN-based generation of high-accuracy urban distribution maps utilising SAR satellite imagery for short-term change monitoring", International Journal of Image and Data Fusion, Vol. 9, No. 4, pp. 302-318, Jul. 2018.
 
