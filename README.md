@@ -20,8 +20,9 @@ Journal Papers
 - Zhaoxiang Zhang, **Kento Doi**, Akira Iwasaki, and Guodong Xu, "Unsupervised Domain Adaptation of High-Resolution Aerial Images via Correlation Alignment and Self Training",  IEEE Geoscience and Remote Sensing Letters, Apr. 2020.
 - Shota Iino, Riho Ito, **Kento Doi**, Tomoyuki Imaizumi, and Syuhei Hikosaka, "CNN-based generation of high-accuracy urban distribution maps utilising SAR satellite imagery for short-term change monitoring", International Journal of Image and Data Fusion, Vol. 9, No. 4, pp. 302-318, Jul. 2018.
 
-### Grants
+### Awards/Grants
 
+- MIRU Excellent Paper Award, The 25th Meeting on Image Recognition and Understanding (MIRU2022), 28 July 2022.
 - Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher, Apr. 2020 - Mar. 2021.
 
 ### Stats
