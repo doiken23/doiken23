@@ -3,10 +3,9 @@
 I'm Kento Doi, a PhD student at the University of Tokyo, RA at AIST. I'm interested in computer vision and machine learning.
 
 - 👁‍🗨 I'm currently working on change detection/captioning projects
-- 🥺 Python / git / Vim / LaTex / Markdown
+- 💻 Python / git / Vim / LaTex / Markdown
 - ⌨️ I'm enjoying [AtCoder](https://atcoder.jp/users/doiken)
 - 🤸‍♂️ I was a gymnast when I was an undergraduate
-- 📕💿 I like Japanese manga and HIP HOP music
 
 ### Publications
 
@@ -16,7 +15,7 @@ Conference Papers
 
 Journal Papers
 
-- **Kento Doi**, Ryuhei Hamaguchi, Yusuke Iwasawa, Masaki Onishi, Yutaka Matsuo, and Ken Sakurada, "Detecting Object-Level Scene Changes with Viewpoint Difference using Graph Matching", Remote Sensing, 2022. [ACCEPTED]
+- **Kento Doi**, Ryuhei Hamaguchi, Yusuke Iwasawa, Masaki Onishi, Yutaka Matsuo, and Ken Sakurada, "Detecting Object-Level Scene Changes with Viewpoint Difference using Graph Matching", Remote Sensing, 14(17):4225, 2022.
 - Zhaoxiang Zhang, **Kento Doi**, Akira Iwasaki, and Guodong Xu, "Unsupervised Domain Adaptation of High-Resolution Aerial Images via Correlation Alignment and Self Training",  IEEE Geoscience and Remote Sensing Letters, Apr. 2020.
 - Shota Iino, Riho Ito, **Kento Doi**, Tomoyuki Imaizumi, and Syuhei Hikosaka, "CNN-based generation of high-accuracy urban distribution maps utilising SAR satellite imagery for short-term change monitoring", International Journal of Image and Data Fusion, Vol. 9, No. 4, pp. 302-318, Jul. 2018.
 
