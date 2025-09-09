@@ -1,11 +1,8 @@
-## About Me😆
+## About Me
 
-I'm Kento Doi, a PhD student at the University of Tokyo, RA at AIST. I'm interested in computer vision and machine learning.
-
-- 👁‍🗨 I'm currently working on change detection/captioning projects
-- 💻 Python / git / Vim / LaTex / Markdown
-- ⌨️ I'm enjoying [AtCoder](https://atcoder.jp/users/doiken)
-- 🤸‍♂️ I was a gymnast when I was an undergraduate
+- 👔 I'm a data scientist at a consulting firm
+- 🤸‍♂️ I'm a trainee focusing on BIG3
+- 💻 Favorite: Python / git / Vim
 
 ### Publications
 
@@ -23,7 +20,3 @@ Journal Papers
 
 - MIRU Excellent Paper Award, The 25th Meeting on Image Recognition and Understanding (MIRU2022), 28 July 2022.
 - Toyota/Dwango Scholarship for Advanced Artificial Intelligence Researcher, Apr. 2020 - Mar. 2021.
-
-### Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doiken23)](https://github.com/anuraghazra/github-readme-stats)
